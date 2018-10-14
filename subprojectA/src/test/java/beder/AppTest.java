@@ -1,4 +1,4 @@
-package pl.beder;
+package beder;
 
 import static org.junit.Assert.assertTrue;
 
